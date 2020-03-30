@@ -1,0 +1,12 @@
+name: corona-vs-flu
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib=2.2.4
+    - pandas=0.25.1
+    - notebook=6.0.3
+    - jupyter_core=4.6.2
+    - scipy=1.2.1
+    - xlrd=1.2.0
+
